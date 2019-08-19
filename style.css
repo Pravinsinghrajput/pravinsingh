@@ -87,7 +87,7 @@ ul div li:hover{
     /* border: 2px,white; */
     /* border-radius: 5px; */
     /* font-family: "Raleway"; */
-    top: 500px;
+    top: 650px;
     position: absolute;
     left: 240px;
 }
@@ -106,7 +106,7 @@ ul div li:hover{
     /* border: 2px,white;
     border-radius: 5px; */
     /* font-family: "Raleway"; */
-    top: 700px;
+    top: 850px;
     position: absolute;
     left: 240px;
     background-attachment: fixed;
@@ -123,7 +123,7 @@ ul div li:hover{
     /* border: 2px,white; */
     /* border-radius: 5px; */
     /* font-family: "Raleway"; */
-    top: 700px;
+    top: 1050px;
     position: absolute;
     left: 240px;
 }
@@ -139,7 +139,7 @@ ul div li:hover{
     /* border: 2px,white; */
     /* border-radius: 5px; */
     /* font-family: "Raleway"; */
-    top: 1200px;
+    top: 1400px;
     position: absolute;
     left: 240px;
 }

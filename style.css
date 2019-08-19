@@ -38,8 +38,8 @@ a{
     background-image:url("p6.jpg");
     background-repeat: no-repeat;
     position: absolute;
-    height:300px;
-    width: 300px;
+    height:200px;
+    width: 200px;
     left : 50px;
     opacity:1;
 }

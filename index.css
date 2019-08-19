@@ -1,0 +1,183 @@
+
+body{
+ 
+    width: 2000px;
+    height: 2000px;
+    background-size: cover;
+    background-color: #151414;
+}
+
+ #slidebar{
+    position: fixed;
+    margin: 0%;
+    padding: 0%;   
+    width: 200px;
+    height: 100%;
+    background: #151414;
+}
+
+#slidebar li{
+    position: relative;
+    color: whitesmoke;
+    list-style: none;
+    padding: 20px 10px;
+    border-bottom: 1px solid rgba(100,100,100,0.3);  
+    /* font-size: 20px; */
+}
+
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+
+ #img{
+    background-image:url("p3.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    height:300px;
+    width: 300px;
+    left : 50px;
+    opacity:1;
+}
+
+
+ 
+ul div li:hover{
+    background-color:#C3B8A3;
+    color: black;
+}
+ 
+.contact .email{
+    background-color: #151414;
+    /* opacity:1; */
+    /* background-repeat: no-repeat; */
+    /* background-size: contain; */
+    width: 100%;
+    height: 500px;
+    /* border: 2px,white; */
+    /* border-radius: 5px; */
+    /* font-family: "Raleway"; */
+    top: 110px;
+    position: absolute;
+    left: 240px;
+}
+
+ #text{
+    position: relative;
+    align-content: center;
+    align-items: center;
+    top: 250px;
+    left: 240px;
+    font-size: 50px;
+    color: white;
+}
+
+
+.care{
+    background-color: #151414;
+    /* opacity:1; */
+    /* background-repeat: no-repeat; */
+    /* background-size: contain; */
+    width: 500px;
+    height: 200px;
+    /* border: 2px,white; */
+    /* border-radius: 5px; */
+    /* font-family: "Raleway"; */
+    top: 150px;
+    position: absolute;
+    left: 240px;
+}
+
+
+
+
+
+.edu{
+    background-color: #151414;
+    /* opacity:0.7; */
+    /* background-repeat: no-repeat;
+    background-size: contain; */
+    width: 500px;
+    height: 500px;
+    /* border: 2px,white;
+    border-radius: 5px; */
+    /* font-family: "Raleway"; */
+    top: 350px;
+    position: absolute;
+    left: 240px;
+    background-attachment: fixed;
+}
+
+
+.skill{
+    background-color: #151414;
+    /* opacity:1; */
+    /* background-repeat: no-repeat; */
+    /* background-size: contain; */
+    width: 100%;
+    height: 500px;
+    /* border: 2px,white; */
+    /* border-radius: 5px; */
+    /* font-family: "Raleway"; */
+    top: 500px;
+    position: absolute;
+    left: 240px;
+}
+
+
+.exp{
+    background-color: #151414;
+    /* opacity:1; */
+    /* background-repeat: no-repeat; */
+    /* background-size: contain; */
+    width: 100%;
+    height: 500px;
+    /* border: 2px,white; */
+    /* border-radius: 5px; */
+    /* font-family: "Raleway"; */
+    top: 1000px;
+    position: absolute;
+    left: 240px;
+}
+
+
+
+
+.pi{
+    background-color: #151414;
+    /* opacity:1; */
+    /* background-repeat: no-repeat; */
+    /* background-size: contain; */
+    width: 100%;
+    height: 500px;
+    /* border: 2px,white; */
+    /* border-radius: 5px; */
+    /* font-family: "Raleway"; */
+    top: 1200px;
+    position: absolute;
+    left: 240px;
+}
+
+
+.hob{
+    background-color: #151414;
+    /* opacity:1; */
+    /* background-repeat: no-repeat; */
+    /* background-size: contain; */
+    width: 100%;
+    height: 500px;
+    /* border: 2px,white; */
+    /* border-radius: 5px; */
+    /* font-family: "Raleway"; */
+    top: 2000px;
+    position: absolute;
+    left: 240px;
+}
+
+ 
+ 
+            
